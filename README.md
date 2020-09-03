@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on implementing a pdf encoding library for Zebra CPCL printers and designing websites local businesses.
-🌱 I’m currently learning Angular with C# as the backend, with a bit of networking fundamentals mixed in there.
+### 🔭 I’m currently working on implementing a pdf encoding library for Zebra CPCL printers and designing websites local businesses.
+### 🌱 I’m currently learning Angular with C# as the backend, with a bit of networking fundamentals mixed in there.
 
 
 
