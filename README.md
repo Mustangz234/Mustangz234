@@ -1,7 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently working on designing websites local businesses.
-### 🌱 I’m currently learning Angular with C# as the backend, with a bit of networking fundamentals mixed in there.
-
+### 🔭 Name is Alejandro (Alex for short) and love to work on projects that will improve the lifestyle of whoever is going to use it..
+### 🌱 Currently working on learning Java to develop Android applications and C# to get better at backend web development to enforce my frontend knowledge.
 
 
 <!--
