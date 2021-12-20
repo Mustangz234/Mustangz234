@@ -1,11 +1,16 @@
-# Hi there, I'm Alejandro Medina👋
+# Hi there, I'm Alejandro Medina 👋
 
-*Systems Integration Engineer at [Zebra Technologies](https://www.zebra.com/us/en.html)*
+*Systems Integration Engineer at [Walmart](https://www.walmart.com/)*
 
-*Software Engineer in [Free Time](https://www.merriam-webster.com/dictionary/free%20time)*
+### Skills/Talents
 
-## Working on
+- Java
+- Android
+- Scala
+- Backend API Systems
 
-- [ ] Java
-- [ ] Android
-- [ ] C#
+### Working on currently || Wanting to work on
+
+- [ ] Go
+- [ ] Rust
+
