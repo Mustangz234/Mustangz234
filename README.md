@@ -1,6 +1,6 @@
 # Hi there, I'm Alejandro Medina 👋
 
-*Systems Integration Engineer at [Walmart](https://www.walmart.com/)*
+*Software Engineer at [Walmart](https://www.walmart.com/)*
 
 ### Skills/Talents
 
